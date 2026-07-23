@@ -4,20 +4,13 @@ Professional portfolio for [WaannAlter](https://github.com/WaannAlter), a DevSec
 
 The site focuses on collaborative contribution areas across secure software delivery, GitOps, cloud and edge infrastructure, infrastructure as code, embedded Linux, and application engineering. It intentionally avoids exposing private repository content, client details, or unsupported ownership claims.
 
-## Local development
+## Local preview
 
-Requires Node.js 22 or newer.
+Open `index.html` in a browser. The site is plain HTML and CSS with no build step, runtime dependency, analytics, or paid hosting requirement.
 
-```bash
-npm install
-npm run dev
-```
+## Hosting
 
-## Validation
-
-```bash
-npm run build
-```
+The public site is hosted with GitHub Pages from this repository.
 
 ## Reversibility
 
